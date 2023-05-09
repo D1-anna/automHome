@@ -1,0 +1,45 @@
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\obj\Debug\net6.0\Shop.csproj.AssemblyReference.cache
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\obj\Debug\net6.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\obj\Debug\net6.0\Shop.AssemblyInfoInputs.cache
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\obj\Debug\net6.0\Shop.AssemblyInfo.cs
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\obj\Debug\net6.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\bin\Debug\net6.0\Shop.exe
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\bin\Debug\net6.0\Shop.deps.json
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\bin\Debug\net6.0\Shop.runtimeconfig.json
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\bin\Debug\net6.0\Shop.dll
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\bin\Debug\net6.0\Shop.pdb
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\obj\Debug\net6.0\Shop.dll
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\obj\Debug\net6.0\refint\Shop.dll
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\obj\Debug\net6.0\Shop.pdb
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\obj\Debug\net6.0\Shop.genruntimeconfig.cache
+C:\Users\diana.pavlovych\source\repos\Shop\Shop\obj\Debug\net6.0\ref\Shop.dll
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\bin\Debug\net6.0\Shop.exe
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\bin\Debug\net6.0\Shop.deps.json
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\bin\Debug\net6.0\Shop.runtimeconfig.json
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\bin\Debug\net6.0\Shop.dll
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\bin\Debug\net6.0\Shop.pdb
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\obj\Debug\net6.0\Shop.csproj.AssemblyReference.cache
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\obj\Debug\net6.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\obj\Debug\net6.0\Shop.AssemblyInfoInputs.cache
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\obj\Debug\net6.0\Shop.AssemblyInfo.cs
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\obj\Debug\net6.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\obj\Debug\net6.0\Shop.dll
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\obj\Debug\net6.0\refint\Shop.dll
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\obj\Debug\net6.0\Shop.pdb
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\obj\Debug\net6.0\Shop.genruntimeconfig.cache
+C:\Users\Danku\Downloads\Telegram Desktop\Shop\Shop\obj\Debug\net6.0\ref\Shop.dll
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\bin\Debug\net6.0\Shop.exe
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\bin\Debug\net6.0\Shop.deps.json
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\bin\Debug\net6.0\Shop.runtimeconfig.json
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\bin\Debug\net6.0\Shop.dll
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\bin\Debug\net6.0\Shop.pdb
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\obj\Debug\net6.0\Shop.csproj.AssemblyReference.cache
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\obj\Debug\net6.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\obj\Debug\net6.0\Shop.AssemblyInfoInputs.cache
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\obj\Debug\net6.0\Shop.AssemblyInfo.cs
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\obj\Debug\net6.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\obj\Debug\net6.0\Shop.dll
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\obj\Debug\net6.0\refint\Shop.dll
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\obj\Debug\net6.0\Shop.pdb
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\obj\Debug\net6.0\Shop.genruntimeconfig.cache
+C:\Users\diana.pavlovych\source\repos\ShopTest\Shop\Shop\obj\Debug\net6.0\ref\Shop.dll
